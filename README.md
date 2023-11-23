@@ -1,2 +1,2 @@
 # pproject3
-A/B testing
+A/B testing using CUPED,bootstrap
